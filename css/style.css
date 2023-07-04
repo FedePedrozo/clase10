@@ -17,3 +17,11 @@ h2{
     flex-direction: column;
     justify-content: flex-end;
 }
+
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    align-content: center;
+    justify-content: space-around;
+}
